@@ -1,0 +1,22 @@
+.nav__container {
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.main__container {
+    max-width: 1500px;
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.footer__container {
+    max-width: 1500px;
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid green;
+}
